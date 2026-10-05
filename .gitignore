@@ -1,0 +1,106 @@
+# Graft graph cache
+/graft/
+**/graft/
+
+# Dependencies
+node_modules/
+**/node_modules/
+.pnp
+.pnp.js
+
+# Production and build outputs
+dist/
+**/dist/
+dist-electron/
+**/dist-electron/
+build/
+**/build/
+out/
+**/out/
+release/
+**/release/
+
+# Electron-builder packages & installers
+*.dmg
+*.pkg
+*.app
+*.exe
+*.AppImage
+*.deb
+*.rpm
+*-unpacked/
+win-unpacked/
+mac-arm64/
+mac-universal/
+linux-unpacked/
+
+# Build and runtime caches
+.cache/
+**/.cache/
+.vite/
+**/.vite/
+*.tsbuildinfo
+
+# Logs & debugging
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+
+# Environment and sensitive files
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+*.env
+!*.env.example
+*.pem
+*.key
+
+# Local editor & AI assistant configs
+.claude/settings.local.json
+**/.claude/settings.local.json
+*.local.json
+
+# IDEs and editors
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Model weights, audio caches, and temporary runtime files
+models/
+**/models/
+*.onnx
+*.pt
+*.bin
+*.tar.gz
+*.zip
+temp/
+**/temp/
+temp_audio/
+**/temp_audio/
+audio-cache/
+**/audio-cache/
+stems/
+**/stems/
+*.tmp
+*.temp
