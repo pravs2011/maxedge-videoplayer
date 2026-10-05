@@ -1,6 +1,8 @@
 # 🎬 MaxEdge Video Player (MVP)
 
 > **Next-Generation Desktop Media Player with Real-Time AI Dubbing, On-Device Multilingual ASR, Voice Cloning, and Large-File Streaming.**
+>
+> Developed by [Pravesh Singh](https://praveshsingh.com) & [Softedge Technology](https://softedgetechnology.com).
 
 [![Electron](https://img.shields.io/badge/Electron-25.3.0-47848F?logo=electron&logoColor=white)](https://www.electronjs.org/)
 [![React](https://img.shields.io/badge/React-18.2.0-61DAFB?logo=react&logoColor=black)](https://react.dev/)
@@ -255,6 +257,13 @@ Contributions, bug reports, and feature requests are welcome!
 3. Commit your changes (`git commit -m 'Add some amazing feature'`)
 4. Push to the branch (`git push origin feature/amazing-feature`)
 5. Open a Pull Request
+
+---
+
+## 👨‍💻 Author & Maintainers
+
+- **Pravesh Singh** — [praveshsingh.com](https://praveshsingh.com)
+- **Softedge Technology** — [softedgetechnology.com](https://softedgetechnology.com)
 
 ---
 
